@@ -4,6 +4,16 @@ HI &amp;&amp; AI: A talk at JSConfHI, 2019
 # Slides
 * Full deck as PDF at (beware 57M download): https://github.com/mudphone/JSConfHI_HIandAI/blob/master/JSConfHI_HIandAI.pdf
 
+# Resources
+* Kyle McDonald's FaceTracking demo in P5js & ML5js: http://kylemcdonald.github.io/cv-examples/FaceTracking/
+* Gene Kogan's [ML 4 Artists guides](http://ml4a.github.io/guides/)
+* Gene Kogan's [ML 4 Artists examples](https://github.com/ml4a/ml4a-guides)
+* Gene Kogan's ML4A example for [Reverse Image Search](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/image-search.ipynb)
+* Gene Kogan's ML4A exmample for [Shortest Path](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/image-path.ipynb)
+* [X Degrees of Separation](https://experiments.withgoogle.com/x-degrees-of-separation), by Mario Klingemann and Simon Doury for Google Arts & Culture Experiments
+* Principal Component Analysis [on Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)
+* [dlib C++ library](http://dlib.net/) (has a Python API)
+
 # Quotes
 > The unprecedented is necessarily unrecognizable. When we encounter something unprecedented, we automatically interpret it through the lenses of familiar categories, thereby rendering invisible precisely that which is unprecedented.
 >
