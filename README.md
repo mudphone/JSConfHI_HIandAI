@@ -1,5 +1,5 @@
 # JSConfHI_HIandAI
-HI &amp;&amp; AI: A talk at JSConfHI, 2019
+HI &amp;&amp; AI: A talk at JSConfHI, 2019 [https://www.youtube.com/watch?v=AGtDAO_a9Mk](https://www.youtube.com/watch?v=AGtDAO_a9Mk)
 
 # Slides
 * Full deck as PDF at (beware 57M download): https://github.com/mudphone/JSConfHI_HIandAI/blob/master/JSConfHI_HIandAI.pdf
